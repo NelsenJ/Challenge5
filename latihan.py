@@ -1,4 +1,4 @@
-print("\t\t TiketBus \t\t")
+print("\t TiketBus \t")
 print("-"*25)
 print("Kode Kota :")
 print("1. Prabumulih")
@@ -46,7 +46,7 @@ TotalBayar = subtotal - diskon
 
 
 print("-"*25)
-print("Harga Tiket : Rp. \t", harga)
-print("Sub Total : Rp. \t", subtotal)
-print("Diskon : Rp. \t", diskon)
-print("Total Bayar : Rp. \t", TotalBayar)
+print("Harga Tiket :\t Rp. ", harga)
+print("Sub Total :\t Rp. ", subtotal)
+print("Diskon :\t Rp. ", diskon)
+print("Total Bayar :\t Rp. ", TotalBayar)
